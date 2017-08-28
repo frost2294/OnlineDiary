@@ -1,4 +1,4 @@
-Markup: #Online Diary For Students#
+# Online Diary For Students
 
 This is a basic online diary for students. They are able to add events to their calendar, add any notes regarding
 personal issues, assignments, or clubs and societies.
