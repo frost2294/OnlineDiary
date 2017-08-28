@@ -1,0 +1,50 @@
+html{
+	background: #696969 url(sideimages.png) no-repeat bottom left fixed;
+	background-size: 25%;
+	margin: 0;
+}
+.container{
+	width: 500px;
+	height: 400px;
+	text-align: center;
+	background-color: rgba(52, 73, 94, 0.7);
+	border-radius: 4px;
+	margin: auto;
+	margin-top: 150px;
+}
+div{
+	width: 400px;
+	height: 40px;
+	position: relative;
+	margin: -90px 50px 10% 9%;
+	background-color: green;
+	border-radius: 4px;
+}
+form-input:before{
+	background: url(ninjaicon.png);
+	content: "\f0007";
+	position: absolute;
+	font-size: 30px;
+	color: #985986;
+	padding-top: 5px;
+	font-size: 35px;
+}
+input[type='submit'],input[type='reset']{
+	padding: 15px 25px;
+	color: #fff;
+	background-color: #2ECC71;
+	border: none;
+	border-radius: 4px;
+	border-bottom: 4px solid #27AE60;
+}
+a{
+	text-decoration: none;
+	color: white;
+	font-family: sans-serif;
+	margin-bottom: 20px;
+}
+a:hover{
+	color: coral;
+	font-weight: bold;
+	margin-top: 20px;
+}

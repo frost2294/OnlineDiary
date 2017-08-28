@@ -1,0 +1,40 @@
+html{
+	background: #737373 url(coffee.png) no-repeat top right fixed;
+	background-size: 32%;
+}
+table{
+	border:none;
+}
+.note{
+  background: #eae672;
+  position: relative;
+  width: 450px;
+  margin: 0 auto;
+  padding: 20px;
+  font-size: 30px;
+  box-shadow: 0 10px 10px 2px rgba(0,0,0,0.3);
+}
+.pin {
+  background-color: #aaa;
+  display: block;
+  height: 20px;
+  width: 2px;
+  position: absolute;
+  left: 50%;
+  top: -16px;
+  z-index: 1;
+}
+.pin:after{
+	background-color: #A31;
+	border-radius: 50%;
+	content: '';
+	height: 12px;
+	left: -5px;
+	position: absolute;
+	top: -10px;
+	 width: 12px;
+}
+a:hover{
+	color: coral;
+	font-weight: bold;
+}
