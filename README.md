@@ -6,5 +6,5 @@ personal issues, assignments, or clubs and societies.
 Attached is the sql file containing all the tables to be imported in 
 the phpmyadmin localhost to view all the tables created for portability.
 
-* Database name: sdms *
+*Database name: sdms*
 
